@@ -1,0 +1,64 @@
+{
+    "Name": "Fride Black Locust",
+    "Description": "Lightly fried fresh and sweet black locust flowers.",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 230,
+    "GiftTastes":
+    {
+		"Love": ["Jas"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn","Gus", "George", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam","Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard","Vincent", ]
+    },
+	"Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Black Locust", //아카시아꽃
+            "Count": 1,
+        },
+		{
+            "Object": 246, //Wheat Flour
+            "Count": 1,
+        },
+		{
+            "Object": 247, //Oil
+            "Count": 2,
+        },
+		],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+		
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "아카시아 튀김",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Acácia Frita",
+        // "ru": "",
+        // "tr": "",
+        "zh": "炒洋槐",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "신선하고 달콤한 아카시아 꽃을 가볍게 튀겨냈습니다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "As flores de acácia frescas ligeiramente fritas têm um sabor adocicado.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "经过轻微炒制的新鲜洋槐花，吃起来会有甜甜的味道。",
+    }
+}

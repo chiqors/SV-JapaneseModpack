@@ -1,0 +1,12 @@
+{
+    "Name": "Blossoming Trees",
+	"Author": "Lita",
+	"Version": "1.1",
+	"UniqueID": "Lita.BlossomingTrees",
+	"MinimumApiVersion": "2.5.2",
+	"UpdateKeys": [ "Nexus:1912" ],
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.1.0"
+	}
+}

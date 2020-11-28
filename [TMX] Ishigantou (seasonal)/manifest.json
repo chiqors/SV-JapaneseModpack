@@ -1,0 +1,11 @@
+{
+  "Name": "[TMX] Ishigantou",
+  "Author": "Lanterncat",
+  "Version": "1.0.0",
+  "Description": "A stone tablet placed to ward off evil spirits.",
+  "UniqueID": "lanterncat.ishi",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.8.0"
+  }
+}

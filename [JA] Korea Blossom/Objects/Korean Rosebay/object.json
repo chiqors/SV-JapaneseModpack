@@ -1,0 +1,45 @@
+{
+//original png drawed by Ogood
+  "Name": "Korean Rosebay",
+  "Description": "Pink flowers blooming in spring. It looks like Royal Azalea, but flowers bloom before the leaves. A ingredients of flower pancake.",
+  "Category": "Flower",
+  "Edibility": 7,
+  "Price": 70,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "진달래",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Rosebay",
+        // "ru": "",
+        // "tr": "",
+        "zh": "夹竹桃",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "봄에 피어나는 분홍색 꽃. 철쭉과 비슷해보이지만 잎보다 꽃이 먼저 핀다. 화전을 만들 수 있다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flores cor de rosa florescendo na primavera. Parece azálea real, mas as flores desabrocham antes das folhas. Ingredientes de panqueca de flores.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "开在春天的桃红色花朵。它看起有些像皋月杜鹃，但其花瓣会在叶端开放。",
+		},
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_spring"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+   "Name": "Fish_Pond",
+   "Author": "Gweniaczek",
+   "Version": "1.0",
+   "Description": "3 Fish Ponds options matching Medieval buildings",
+   "UniqueID": "Gweniaczek.Fish_Pond",
+   "UpdateKeys": ["Nexus:5301"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      }
+}

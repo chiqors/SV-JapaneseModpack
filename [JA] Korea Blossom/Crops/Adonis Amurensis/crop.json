@@ -1,0 +1,44 @@
+{
+//original png drawed by LV16
+	"Name": "Adonis Amurensise",
+	"Product": "Adonis Amurensis",
+	"SeedName": "Adonis Amurensis Seeds",
+	"SeedDescription": "Plant in spring. Takes 7 days to grow.",	
+	"Type": "Flower",
+	
+	"Seasons": ["spring"],
+	"Phases": [ 1, 1, 2, 2, 1 ],
+	"RegrowthPhase": -1,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"SeedPurchasePrice": 30,
+	"SeedNameLocalization":
+	{ 
+		//"es": "",
+		"ko": "복수초 씨앗",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Olho de Faisão",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+    },
+	"SeedDescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "봄 꽃. 성장하는 데 7일이 걸린다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Plante na primavera. Leva 7 dias para crescer.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	}
+}

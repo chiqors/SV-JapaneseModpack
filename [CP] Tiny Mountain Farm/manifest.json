@@ -1,0 +1,11 @@
+{
+    "Name": "Tiny Mountain Farm",
+    "Author": "DaisyNiko",
+    "Version": "1.0",
+    "UniqueID": "DaisyNiko.TinyMountainFarm",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": ["Nexus:7059"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

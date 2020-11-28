@@ -1,0 +1,49 @@
+{
+//original png drawed by LV16
+	"Name": "Gymnadenia Camtschatica",
+	"Description": "Korean native orchid blooming like hyacinth.",
+	"Category": "Flower",
+	"Edibility": 18,
+	"Price": 70,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "주름제비란",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor de Gymnadenia Camtschatica",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "히아신스처럼 피어나는 한국 토종 난초.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Orquídea nativa coreana florescendo como jacinto.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_summer",
+    	"flower_item",
+    	"color_pink"
+    ]
+}

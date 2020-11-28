@@ -1,0 +1,49 @@
+{
+//original png drawed by LV16
+	"Name": "Dendrobium Moniliforme",
+	"Description": "A fragrant Korean native orchid growing on rocks.",
+	"Category": "Flower",
+	"Edibility": 16,
+	"Price": 75,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "석곡",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor de Orquídea Dendrobium Moniliforme",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "바위에서 자라는 향기로운 한국 토종 난초.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Uma fragrante orquídea nativa coreana crescendo nas rochas.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_summer",
+    	"flower_item",
+    	"color_pink"
+    ]
+}

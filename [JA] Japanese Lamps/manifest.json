@@ -1,0 +1,11 @@
+{
+   "Name": "Japanese Lamps",
+   "Author": "Lanterncat",
+   "Description": "Adds Japanese lamps.",
+   "Version": "1.0.0",
+   "MinimumApiVersion": "3.3.2",
+   "UniqueID": "lanterncat.japaneselamps",
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+}

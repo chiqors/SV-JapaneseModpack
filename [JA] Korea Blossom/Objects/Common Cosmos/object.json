@@ -1,0 +1,47 @@
+{
+	"Name": "Common Cosmos",
+	"Description": "This flower beautifully colors the autumn fields.",
+	"Category": "Flower",
+	"Edibility": 18,
+	"Price": 25,
+	"IsColored": true,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "코스모스",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "가을 들판을 아름답게 물들이는 꽃.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_fall",
+    	"flower_item",
+    	"color_pink"
+    ]
+}

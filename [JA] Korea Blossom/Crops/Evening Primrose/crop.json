@@ -1,0 +1,44 @@
+{
+//original png drawed by 추억살이
+	"Name": "Evening Primrose",
+	"Product": "Evening Primrose",
+	"SeedName": "Evening Primrose Seeds",
+	"SeedDescription": "Plant in summer. Takes 9 days for the yellow flowers to bloom like the moon.",	
+	"Type": "Flower",
+	
+	"Seasons": ["summer"],
+	"Phases": [ 1, 2, 2, 3, 1 ],
+	"RegrowthPhase": -1,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"SeedPurchasePrice": 30,
+	"SeedNameLocalization":
+	{ 
+		//"es": "",
+		"ko": "달맞이꽃 씨앗.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Sementes de Prímula",
+		//"ru": "",
+		//"tr": "",
+		"zh": "月见草种子",
+    },
+	"SeedDescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "여름 꽃. 달처럼 노란 꽃이 피기까지 9일이 걸립니다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Plante no verão. Demora 9 dias para as flores amarelas florescerem como a lua.",
+		//"ru": "",
+		//"tr": "",
+		"zh": "夏季种植，需要9天时间成熟到显现出像月亮一样的颜色。",
+	}
+}

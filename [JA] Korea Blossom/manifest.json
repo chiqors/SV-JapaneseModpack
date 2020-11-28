@@ -1,0 +1,11 @@
+{
+   "Name": "[JA] Korea Blossom",
+   "Author": "KAYA",
+   "Description": "Add beautiful flowers from Korea and neighboring Asia.",
+   "Version": "1.7.1",
+   "UniqueID": "KAYA.KoreaBlossom",
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+	"UpdateKeys": [ "Nexus:6064" ],
+}

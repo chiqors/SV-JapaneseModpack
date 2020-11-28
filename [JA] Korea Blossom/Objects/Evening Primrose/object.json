@@ -1,0 +1,49 @@
+{
+//original png drawed by 추억살이
+	"Name": "Evening Primrose",
+	"Description": "It is called evening primrose because it blooms in the evening.",
+	"Category": "Flower",
+	"Edibility": 18,
+	"Price": 60,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "달맞이꽃",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor de Prímula",
+		//"ru": "",
+		//"tr": "",
+		"zh": "月见草",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "저녁에 꽃이 피기 때문에 달맞이꽃이라고 불린다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "É chamada de prímula da noite porque floresce ao anoitecer.",
+		//"ru": "",
+		//"tr": "",
+		"zh": "它之所以叫做月见草，是因为它常常开放在夜晚的月华之下。原产于北美，引入欧洲后迅速向世界温带与亚热带地区传播，常生长于开旷荒坡路旁。",
+	},
+    "ContextTags":
+	[
+    	"season_summer",
+    	"flower_item",
+    	"color_yellow"
+    ]
+}

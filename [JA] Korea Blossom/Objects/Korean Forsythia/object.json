@@ -1,0 +1,45 @@
+{
+//original png drawed by 켄꾸리
+  "Name": "Korean Forsythia",
+  "Description": "Yellow flowers blooming in early spring. Small flowers bloom densely on the branches.",
+  "Category": "Flower",
+  "Edibility": -5,
+  "Price": 30,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "개나리",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Forsítia",
+        // "ru": "",
+        // "tr": "",
+        "zh": "连翘",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "이른 봄에 피는 샛노란 꽃. 가지에 작은 꽃이 빽빽하게 피어난다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flores amarelas florescendo no início da primavera. Pequenas flores desabrocham densamente nos galhos.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "于早春绽放的一种花卉，与迎春花非常相似，虽然同属木樨科，但并不同植物属。小小的黄色花朵翘立在纤细的枝条间，异常明丽。",
+		},
+    "ContextTags": [
+    	"color_yellow",
+    	"flower_item",
+    	"season_spring"
+    ]
+}

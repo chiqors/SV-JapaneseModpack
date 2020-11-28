@@ -1,0 +1,14 @@
+{
+
+"buildables": [
+{
+"id":"Fippsie.Onsen",
+"name": "Onsen",
+"file": "assets/Onsen.tmx",
+"iconFile": "assets/OnsenIcon.png",
+"removeEmpty":false,
+"price":10000
+}
+]
+
+}

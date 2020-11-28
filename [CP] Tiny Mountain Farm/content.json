@@ -1,0 +1,34 @@
+{
+    "Format": "1.10",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Maps/Farm_Mining",
+            "FromFile": "assets/farm.tbin"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/font_bold",
+            "FromFile": "assets/arrow.png",
+            "ToArea": {
+                "X": 88,
+                "Y": 80,
+                "Width": 8,
+                "Height": 16
+            },
+            "When": {
+                "LocationName": "Farm"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "tmf.0": "` Mountain^@ Farm Cave",
+                "tmf.1": "> Pelican Town^{ {{FarmName}} Farm",
+                "tmf.2": "` {{FarmName}} Farm^{ Cindersap Forest",
+                "tmf.3": "@ Shrine^{ {{FarmName}} Quarry"
+            }
+        }
+    ]
+}

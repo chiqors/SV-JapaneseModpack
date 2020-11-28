@@ -1,0 +1,52 @@
+{
+//original png drawed by 켄꾸리
+    "Name": "Korean Forsythia",
+    "Product": "Korean Forsythia",
+    "SeedName": "Korean Forsythia Seeds",
+    "SeedDescription": "Grows in spring. Takes 7 days to grow and can be harvested everyday.",
+    "Type": "Flower",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 2, 1, 2, 1],
+    "RegrowthPhase": 1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.02,
+    },
+    "SeedPurchasePrice": 70,
+    "SeedNameLocalization":
+    {
+        // "es": "",
+		"ko": "개나리 씨앗",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        "pt": "Sementes de Forsítia",
+        //"ru": "",
+        //"tr": "",
+        "zh": "连翘种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "봄 꽃. 성장하는 데 7일이 걸리며, 자란 후 매일 수확할 수 있다.",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        "pt": "Cresce na primavera. Leva 7 dias para crescer e pode ser colhido todos os dias.",
+        //"ru": "",
+        //"tr": "",
+        "zh": "春季种植，需要7天时间成熟，之后每天都可以收获一次。",
+    }
+
+}

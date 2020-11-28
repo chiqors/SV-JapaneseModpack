@@ -1,0 +1,45 @@
+{
+//original png drawed by Ogood
+  "Name": "Pink Rhododendron lateritium",
+  "Description": "Colorful flowers blooming in spring. It looks similar to Korean Rosebay, but it has many colors and many flowers.",
+  "Category": "Flower",
+  "Edibility": 5,
+  "Price": 70,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "자영산",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Rododendro Rosa",
+        // "ru": "",
+        // "tr": "",
+        "zh": "粉色皋月杜鹃",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "봄에 피어나는 화려한 꽃. 진달래와 비슷해보이지만 색이 다양하고 꽃이 많이 핀다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flores coloridas que florescem na primavera. É semelhante ao Rosebay coreano, mas tem muitas cores e muitas flores.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "开在春天的色彩缤纷的花朵。杜鹃花属的半常绿乔木，看起来有些像夹竹桃，但是比起夹竹桃会结出更多的花，且颜色也更加多样。",
+		},
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_spring"
+    ]
+}

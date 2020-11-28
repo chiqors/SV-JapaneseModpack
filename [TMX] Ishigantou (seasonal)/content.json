@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.ishi",
+"name": "Ishigantou",
+"file": "assets/ishi.tmx",
+"iconFile": "assets/ishiicon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

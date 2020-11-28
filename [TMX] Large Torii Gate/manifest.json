@@ -1,0 +1,11 @@
+{
+  "Name": "[TMX] Large Torii Gate",
+  "Author": "Lanterncat",
+  "Version": "1.0.0",
+  "Description": "A large torii gate.",
+  "UniqueID": "lanterncat.largetorii",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.8.0"
+  }
+}

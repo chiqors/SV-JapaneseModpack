@@ -1,0 +1,11 @@
+{
+  "Name": "Zen Garden Patch",
+  "Author": "Pixibee",
+  "Version":"1.0.0",
+  "Description": "Zen Garden patch for Content Patcher",
+   "UniqueID": "Pixibee.ZenGarden",
+   "MinimunApiVersion": "2.0",
+    "ContentPackFor":{
+  	"UniqueID": "Pathoschild.ContentPatcher",
+  },
+}

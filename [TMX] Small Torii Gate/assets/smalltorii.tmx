@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.5" orientation="orthogonal" renderorder="right-down" width="7" height="6" tilewidth="16" tileheight="16" infinite="0" nextlayerid="45" nextobjectid="1">
+ <tileset firstgid="1" name="smalltorii" tilewidth="16" tileheight="16" tilecount="42" columns="7">
+  <image source="smalltorii.png" width="112" height="96"/>
+ </tileset>
+ <layer id="39" name="Back" width="7" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="Back" locked="1"/>
+ <layer id="41" name="Buildings" width="7" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,37,0,0,0,41,0
+</data>
+ </layer>
+ <objectgroup id="4" name="Buildings"/>
+ <layer id="42" name="Front" width="7" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,30,0,0,0,34,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="6" name="Front"/>
+ <layer id="43" name="AlwaysFront" width="7" height="6">
+  <data encoding="csv">
+1,2,3,4,5,6,7,
+8,9,10,11,12,13,14,
+15,16,17,18,19,20,21,
+0,23,0,0,0,27,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="44" name="AlwaysFront"/>
+</map>

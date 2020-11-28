@@ -1,0 +1,45 @@
+{
+  "Name": "Cherry Blossom",
+  "Description": "A beautiful flowering tree native to Jeju Island. Pink flowers bloom before leaves.",
+  "Category": "Flower",
+  "Edibility": 2,
+  "Price": 70,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "벚꽃",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Cerejeira",
+        // "ru": "",
+        // "tr": "",
+        "zh": "樱花",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "제주도가 원산지인 아름다운 꽃나무. 잎보다 분홍색 꽃이 먼저 피어난다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Uma bela árvore florida nativa da Ilha de Jeju. Flores cor de rosa desabrocham antes das folhas.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "盛开在济州岛上的美丽花卉，粉红色的花瓣会在叶端温柔开放。",
+		},
+    "ContextTags": [
+    	"color_pink",
+    	"fruit_tree_flower_item",
+    	"flower_item",
+    	"season_spring",
+    ]
+}

@@ -1,0 +1,35 @@
+{
+	"Format":"1.3.0",
+   "Changes": [
+             
+           // Earth Obelisk
+          {
+          "Action":"EditImage",
+          "Target": "Buildings/Earth Obelisk",
+          "FromFile": "assets/Earth Obelisk.png",
+          },
+             
+           // Water Obelisk
+          {
+          "Action":"EditImage",
+          "Target": "Buildings/Water Obelisk",
+          "FromFile": "assets/Water Obelisk.png",
+          },
+
+             
+           // Desert Obelisk
+          {
+          "Action":"EditImage",
+          "Target": "Buildings/Desert Obelisk",
+          "FromFile": "assets/Desert Obelisk.png",
+          },
+
+
+             ]
+
+
+
+
+
+
+}

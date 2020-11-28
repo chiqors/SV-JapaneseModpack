@@ -1,0 +1,13 @@
+{
+    "Name": "Seasonal Anime Portraits",
+    "Author": "OhoDavi (Art), SVO Artists (Outfits), LastLoveToYou & SAP Contributors (Conversion)",
+    "Version": "2.4.3",
+    "Description": "Changes the original seasonal portraits to OhoDavi's anime portraits.",
+    "UniqueID": "LastLoveToYou.SeasonalAnimePortraits",
+	"MinimumApiVersion": "3.6.0",
+    "UpdateKeys": ["Nexus:5494"],
+    "ContentPackFor":
+	{
+        "UniqueID": "Tanpoponoko.SeasonalOutfits",
+    },
+}

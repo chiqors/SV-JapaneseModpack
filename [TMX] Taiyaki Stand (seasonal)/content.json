@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.taiyaki",
+"name": "Taiyaki Stand",
+"file": "assets/taiyaki.tmx",
+"iconFile": "assets/taiyakiicon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

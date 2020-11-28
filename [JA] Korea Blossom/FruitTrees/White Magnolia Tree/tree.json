@@ -1,0 +1,40 @@
+{
+//original png drawed by 추억살이
+	"Name": "White Magnolia Tree",
+	"Product": "White Magnolia",
+	"SaplingName": "White Magnolia Sapling",
+	"SaplingDescription": "Takes 28 days to produce a mature white magnolia tree. Bears flowers in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+	"Season": "spring",
+	"SaplingPurchaseFrom": "Pierre",
+	"SaplingPurchasePrice": 2500,
+	"SaplingPurchaseRequirements": null,
+	"SaplingNameLocalization":
+	{
+		//"es": "",
+		"ko": "흰 목련 묘목",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Mudas de Magnólia Branca",
+		//"ru": "",
+		//"tr": "",
+		"zh": "白玉兰树苗",
+	},
+	"SaplingDescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "28일후에 성목이 됩니다. 봄에 꽃이 핍니다. 주변 8칸이 비어있어야 자랍니다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Demora 28 dias para produzir uma árvore de magnólia branca madura. Tem flores na primavera. Só cresce se as 8 peças ao redor estiverem vazias.",
+		//"ru": "",
+		//"tr": "",
+		"zh": "需要28天时间成熟，之后每逢春季收获白玉兰。周围必须留置8个空格才可供其生长。",
+	}
+}

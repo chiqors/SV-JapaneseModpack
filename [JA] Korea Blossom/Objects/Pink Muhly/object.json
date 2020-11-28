@@ -1,0 +1,47 @@
+{
+	"Name": "Pink Muhly",
+	"Description": "The flowers native to the United States turn pink in fall.",
+	"Category": "Flower",
+	"Edibility": 12,
+	"Price": 20,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "핑크 뮬리",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "분홍쥐꼬리새라고도 한다. 미국이 원산지이며 가을에 분홍빛으로 물든다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_fall",
+    	"flower_item",
+    	"color_pink"
+    ]
+}

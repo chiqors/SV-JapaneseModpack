@@ -1,0 +1,44 @@
+{
+	"Name": "White Magnolia",
+	"Description": "Magnolia with white petals, and the most beautiful trees are planted as garden trees.",
+	"Category": "Flower",
+	"Edibility": 10,
+	"Price": 70,
+	"IsColored": false,
+	"Recipe": null,
+	"NameLocalization":
+	{
+		//"es": "",
+		"ko": "흰 목련",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor de Magnólia Branca",
+		//"ru": "",
+		//"tr": "",
+		"zh": "白玉兰",
+	},
+	"DescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "하얀 꽃잎을 가진 목련. 꽃이 아름다워 정원수로 가장 많이 심는 나무.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Magnólia com pétalas brancas, e as mais belas árvores são plantadas como árvores de jardim.",
+		//"ru": "",
+		//"tr": "",
+		"zh": "拥有白色花朵的木兰，看起来优雅又晶莹，当之无愧园林里最美丽的树木。",
+	},
+	"ContextTags":
+	[
+    	"color_white",
+    	"fruit_tree_flower_item",
+    	"flower_item",
+    	"season_spring"
+	]
+}

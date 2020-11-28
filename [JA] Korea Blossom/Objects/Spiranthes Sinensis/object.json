@@ -1,0 +1,49 @@
+{
+//original png drawed by LV16
+	"Name": "Spiranthes Sinensis",
+	"Description": "Korean native orchid that blooms like a stem.",
+	"Category": "Flower",
+	"Edibility": 16,
+	"Price": 65,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "타래난초",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor de Orquídea Spiranthes Sinensis",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "줄기를 휘감듯 피어나는 한국 토종 난초.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Orquídea nativa coreana que floresce como um caule.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_summer",
+    	"flower_item",
+    	"color_pink"
+    ]
+}

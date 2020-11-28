@@ -1,0 +1,26 @@
+{
+	"Format": "1.9",
+
+	"ConfigSchema": {
+		"pondcolor":{"AllowValues": "toned, vibrant",
+					"Default": "toned"},
+		"FishPoption":{"AllowValues": "1, 2, 3",
+					"Default": "1"},
+	},
+
+	"Changes": [
+//Fish Pond
+        {
+        "Action": "EditImage",
+        "Target": "Buildings/Fish Pond",
+        "FromFile": "assets/{{FishPoption}}/{{season}}.png",
+        "When": { "FishPoption": "2, 3"},
+		},
+		{
+        "Action": "EditImage",
+        "Target": "Buildings/Fish Pond",
+        "FromFile": "assets/1/{{season}}_{{pondcolor}}.png",
+        "When": { "FishPoption": "1"},
+		},
+     ]
+}

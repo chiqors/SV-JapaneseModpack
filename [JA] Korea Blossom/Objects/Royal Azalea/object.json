@@ -1,0 +1,45 @@
+{
+//original png drawed by Ogood
+  "Name": "Royal Azalea",
+  "Description": "Colorful flowers blooming in spring. It looks similar to Korean Rosebay, but with flowers and leaves. Be careful as it is toxic.",
+  "Category": "Flower",
+  "Edibility": -15,
+  "Price": 70,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "철쭉",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Azaléia",
+        // "ru": "",
+        // "tr": "",
+        "zh": "大字杜鹃",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "봄에 피어나는 분홍색 꽃. 진달래과 비슷해보이지만 꽃과 잎이 함께 난다. 독성이 있으니 조심하자.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flores coloridas que florescem na primavera. É semelhante ao Rosebay coreano, mas com flores e folhas. Tenha cuidado, pois é tóxico.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "开花在春天的桃红色花朵。它看起来与夹竹桃相似，但花朵和叶子却有不小区别。因其毒性，接触它时一定要多加小心",
+		},
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_spring"
+    ]
+}

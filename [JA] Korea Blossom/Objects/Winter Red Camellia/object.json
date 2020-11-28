@@ -1,0 +1,45 @@
+{
+//original png drawed by 도돌표
+  "Name": "Winter Red Camellia",
+  "Description": "Elegant flowers blooming in the winter snow.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "붉은 동백꽃",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor Camélia Vermelha de Inverno",
+        // "ru": "",
+        // "tr": "",
+        "zh": "红山茶",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "겨울 눈 속에서 피어나는 우아한 꽃.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flores elegantes florescendo na neve do inverno.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "盛开在冬季的优雅花朵。",
+		},
+    "ContextTags": [
+    	"color_red",
+    	"flower_item",
+    	"season_winter"
+    ]
+}

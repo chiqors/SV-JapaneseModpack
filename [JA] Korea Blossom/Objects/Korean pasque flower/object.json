@@ -1,0 +1,46 @@
+{
+//original png drawed by 추억살이
+  "Name": "Korean pasque flower",
+  "Description": "A fluffy, lovely flower reminiscent of a grandmother.",
+  "Category": "Flower",
+  "Edibility": 15,
+  "Price": 20,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+		"Love" : ["Alex", "Evelyn", "George", ],
+        "Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "할미꽃",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Pasque Flower",
+        // "ru": "",
+        // "tr": "",
+        "zh": "白头翁",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "허리굽은 할머니를 떠올리게 하는, 푹신한 솜털이 많이 나는 꽃.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Uma flor fofa e adorável que lembra uma avó.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "看起来蓬蓬松松的温柔花朵，会让人想起祖母慈祥的样子。",
+		},
+    "ContextTags": [
+    	"color_purple",
+    	"flower_item",
+    	"season_spring"
+    ]
+}

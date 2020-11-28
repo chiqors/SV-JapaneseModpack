@@ -1,0 +1,250 @@
+{
+    "Format": "1.18.0",
+	"ConfigSchema": {
+	
+		"Language Settings": {
+            "AllowValues": "English, German, Spanish, Portuguese",
+            "Default": "English"
+        },
+
+		"Tidy Menu": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        },
+		"Fertilizer": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		"Wild Bait": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		"Rare Seed": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		"Burglar Ring": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		"Bombs": {
+            "AllowValues": "2 Ore, 3 Ore, 4 Ore, OFF",
+            "Default": "OFF"
+        },
+		"Ammo": {
+            "AllowValues": "2 Ore, 3 Ore, 4 Ore, 5 Ore, OFF",
+            "Default": "OFF"
+        },
+		"Golden Mega Bomb": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        }
+    },
+    "Changes": [
+		
+		//Crafting
+		{
+            "Action": "Load",
+            "Target": "Data/CraftingRecipes",
+            "FromFile": "assets/CraftingRecipes.xnb",
+			"When": {
+				"Tidy Menu": "true",
+				"Language Settings": "English",
+				}
+        },
+		{
+            "Action": "Load",
+            "Target": "Data/CraftingRecipes",
+            "FromFile": "assets/CraftingRecipes.de-DE.xnb",
+			"When": {
+				"Tidy Menu": "true",
+				"Language Settings": "German",
+				}
+        },
+		{
+            "Action": "Load",
+            "Target": "Data/CraftingRecipes",
+            "FromFile": "assets/CraftingRecipes.es-ES.xnb",
+			"When": {
+				"Tidy Menu": "true",
+				"Language Settings": "Spanish",
+				}
+        },
+		{
+            "Action": "Load",
+            "Target": "Data/CraftingRecipes",
+            "FromFile": "assets/CraftingRecipes.pt-BR.xnb",
+			"When": {
+				"Tidy Menu": "true",
+				"Language Settings": "Portuguese",
+				}
+        },
+		// Fertilizer
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Fertilizer": "true"
+            },
+         "Fields": {
+            "Quality Fertilizer": {
+               0: "92 2 766 1"
+            }
+         }
+        },
+	   	// Bombs
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Bombs": "2 Ore"
+            },
+         "Fields": {
+            "Cherry Bomb": {
+               0: "378 2 382 1"
+            },
+			"Bomb": {
+               0: "380 2 382 1"
+            },
+			"Mega Bomb": {
+               0: "384 2 382 1"
+            }
+         }
+        },		
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Bombs": "3 Ore"
+            },
+         "Fields": {
+            "Cherry Bomb": {
+               0: "378 3 382 1"
+            },
+			"Bomb": {
+               0: "380 3 382 1"
+            },
+			"Mega Bomb": {
+               0: "384 3 382 1"
+            }
+         }
+        },		
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Bombs": "4 Ore"
+            },
+         "Fields": {
+            "Cherry Bomb": {
+               0: "378 4 382 1"
+            },
+			"Bomb": {
+               0: "380 4 382 1"
+            },
+			"Mega Bomb": {
+               0: "384 4 382 1"
+            }
+         }
+        },
+		// Ammo
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Ammo": "2 Ore"
+            },
+         "Fields": {
+            "Explosive Ammo": {
+               0: "378 2 769 1"
+            }
+         }
+        },
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Ammo": "3 Ore"
+            },
+         "Fields": {
+            "Explosive Ammo": {
+               0: "378 3 769 1"
+            }
+         }
+        },
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Ammo": "4 Ore"
+            },
+         "Fields": {
+            "Explosive Ammo": {
+               0: "378 4 769 1"
+            }
+         }
+        },
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Ammo": "5 Ore"
+            },
+         "Fields": {
+            "Explosive Ammo": {
+               0: "378 5 769 1"
+            }
+         }
+        },
+		// Wild Bait
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Wild Bait": "true"
+            },
+         "Fields": {
+            "Wild Bait": {
+               0: "771 5 684 5 766 5"
+            }
+         }
+        },
+		// Rare Seed
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Rare Seed": "false",
+				"Tidy Menu": "true"
+            },
+         "Entries": {
+            "Rare Seed": null
+            }
+        },
+		// Burglar Ring
+		{
+         "Action": "EditData",
+         "Target": "Data/CraftingRecipes",
+		 "When": {
+				"Burglar Ring": "false",
+				"Tidy Menu": "true"
+            },
+         "Entries": {
+            "Burglar's Ring": null
+            }
+        },
+		// Bomb Skin
+		{
+         "Action": "EditImage",
+         "Target": "Maps/springobjects",
+		 "When": {
+				"Golden Mega Bomb": "true"
+            },
+         "FromFile": "assets/springobjects.png",
+         "FromArea": { "X": 0, "Y": 192, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 0, "Y": 192, "Width": 16, "Height": 16 }
+      },
+		
+		
+    ]
+}

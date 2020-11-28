@@ -1,0 +1,78 @@
+ {
+    "Format": "1.5",
+    "ConfigSchema": {
+        "PathEnabled" : {"AllowValues": "True, False"},
+        "FenceEnabled" : {"AllowValues": "True, False"},
+        "Color": {"AllowValues" : "Warm, Cold"},
+    },
+    "Changes": [
+        // Path
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/Flooring",
+            "FromFile": "assets/{{Color}}_Stonefloor.png",
+            "ToArea": { "X": 64, "Y": 0, "Width": 64, "Height": 64 },
+            "When": {
+                "PathEnabled": "true"
+                },
+            "Patchmode" : "Replace",
+        },
+        // Path in Winter
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/Flooring_winter",
+            "FromFile": "assets/{{Color}}_Stonefloor_winter.png",
+            "ToArea": { "X": 64, "Y": 0, "Width": 64, "Height": 64 },
+            "When": {"PathEnabled": "true"},
+            "When": {
+                "PathEnabled": "true",
+                },
+            "Patchmode" : "Replace",
+        },
+        // Path Icon 
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/Icon_{{Color}}_Stonefloor.png",
+            "ToArea": { "X": 272, "Y": 208, "Width": 16,"Height": 16 },
+            "When": {
+                "PathEnabled": "true"
+                },
+            "Patchmode" : "Replace",
+        },
+        // Fence
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/fence2",
+            "FromFile": "assets/Cold_Stonefence.png",
+            "When": {
+                "Season": "spring, summer, fall",
+                "FenceEnabled": "true",
+                "Color": "Cold"
+            },
+        },
+        // Fence in Winter
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/fence2",
+            "FromFile": "assets/Cold_Stonefence_winter.png",
+            "When": {
+                "FenceEnabled": "true",
+                "Season": "winter",
+                "Color": "Cold",
+            },
+        },
+        // Fence Icon
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/Icon_Cold_Stonefence.png",
+            "ToArea": { "X": 176, "Y": 208, "Width": 16,"Height": 16 },
+            "When": {
+                "FenceEnabled": "true",
+                "Color": "Cold"
+            },
+            "Patchmode" : "Replace",
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "[TMX] Fippsie's Small Onsen - Hot Springs",
+  "Author": "Fippsie",
+  "Version": "1.0.1",
+  "Description": "Small Hot Springs for your farm",
+  "UniqueID": "Fippsie.SmallOnsen",
+  "UpdateKeys": [ "Nexus:4081" ],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.4.0"
+  }
+}

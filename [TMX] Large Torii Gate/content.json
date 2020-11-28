@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.largetorii",
+"name": "Large Torii Gate",
+"file": "assets/largetorii.tmx",
+"iconFile": "assets/ToriiIcon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

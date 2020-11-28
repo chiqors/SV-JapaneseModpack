@@ -1,0 +1,44 @@
+{
+//original png drawed by LV16
+	"Name": "Dendrobium Moniliforme",
+	"Product": "Dendrobium Moniliforme",
+	"SeedName": "Dendrobium Moniliforme Seeds",
+	"SeedDescription": "Plant in summer. Takes 9 days to grow.",	
+	"Type": "Flower",
+	
+	"Seasons": ["summer"],
+	"Phases": [ 2, 2, 2, 2, 1 ],
+	"RegrowthPhase": -1,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"SeedPurchasePrice": 68,
+	"SeedNameLocalization":
+	{ 
+		//"es": "",
+		"ko": "석곡 씨앗",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Sementes de Orquídea Dendrobium Moniliforme",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+    },
+	"SeedDescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "여름 꽃. 성장하는 데 9일이 걸린다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Plante no verão. Demora 9 dias para crescer.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	}
+}

@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.dango",
+"name": "Dango Stand",
+"file": "assets/dango.tmx",
+"iconFile": "assets/dangoicon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

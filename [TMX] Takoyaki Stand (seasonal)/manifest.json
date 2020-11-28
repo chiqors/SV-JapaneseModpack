@@ -1,0 +1,11 @@
+{
+  "Name": "[TMX] Takoyaki Stand",
+  "Author": "Lanterncat",
+  "Version": "1.0.0",
+  "Description": "A food stand for takoyaki.",
+  "UniqueID": "lanterncat.takoyaki",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.8.0"
+  }
+}

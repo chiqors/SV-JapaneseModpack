@@ -1,0 +1,45 @@
+{
+//original png drawed by 추억살이
+  "Name": "Geumgang-Cholong",
+  "Description": "Lantern shaped Flower grow in Geumgang mountain. It grows only in Korea.",
+  "Category": "Flower",
+  "Edibility": 40,
+  "Price": 30,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "금강초롱꽃",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Campânul",
+        // "ru": "",
+        // "tr": "",
+        "zh": "金刚风铃",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "금강산에서 피어나는 초롱모양의 꽃. 한국에서만 자라는 고유종입니다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Lantern shaped Flower grow in Geumgang mountain. It grows only in Korea.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "一种状似灯笼，生长于朝鲜名山金刚山上的可爱花朵。看起来有些像铃兰，但是据说只生长在朝鲜半岛。",
+		},
+    "ContextTags": [
+    	"color_purple",
+    	"flower_item",
+    	"season_summer"
+    ]
+}

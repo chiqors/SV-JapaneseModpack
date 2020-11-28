@@ -1,0 +1,61 @@
+{
+	"Format": "1.0",
+	"Changes": [
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees.png",
+        "FromArea": { "X": 0, "Y": 0, "Width": 336, "Height": 480 }, 
+		"ToArea": { "X": 0, "Y": 0, "Width": 336, "Height": 480 }
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees-v.png",
+        "ToArea": { "X": 336, "Y": 0, "Width": 48, "Height": 480 }, 
+		"Enabled": false
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees-veg.png",
+        "ToArea": { "X": 336, "Y": 0, "Width": 48, "Height": 480 }, 
+		"Enabled": false
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees-sb.png",
+        "ToArea": { "X": 336, "Y": 0, "Width": 48, "Height": 480 }, 
+		"Enabled": false
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees-sbeg.png",
+        "ToArea": { "X": 336, "Y": 0, "Width": 48, "Height": 480 }, 
+		"Enabled": true
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees.png",
+        "FromArea": { "X": 384, "Y": 0, "Width": 48, "Height": 480 }, 
+		"ToArea": { "X": 384, "Y": 0, "Width": 48, "Height": 480 }
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees-vsap.png",
+        "ToArea": { "X": 0, "Y": 496, "Width": 192, "Height": 64 }, 
+		"Enabled": false
+		},
+		{
+		"Action": "EditImage",
+		"Target": "TileSheets/fruitTrees",
+		"FromFile": "assets/fruitTrees-sbsap.png",
+        "ToArea": { "X": 0, "Y": 496, "Width": 192, "Height": 64 }, 
+		"Enabled": true
+		},
+	]
+}

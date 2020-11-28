@@ -1,0 +1,49 @@
+{
+//original png drawed by LV16
+	"Name": "Adonis Amurensis",
+	"Description": "Yellow flower blooming in the snow in early spring.",
+	"Category": "Flower",
+	"Edibility": 18,
+	"Price": 60,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "복수초",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor Olho de Faisão",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "이른 봄에 눈 속에서 피어나는 노란 꽃.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor amarela florescendo na neve no início da primavera.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_spring",
+    	"flower_item",
+    	"color_yellow"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "Black Locust",
+  "Description": "Sweet smelling white flowers.",
+  "Category": "Flower",
+  "Edibility": 16,
+  "Price": 70,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "아카시아 꽃",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor de Acácia",
+        // "ru": "",
+        // "tr": "",
+        "zh": "洋槐花",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "달콤한 향이 나는 꽃. 실제 이름은 아까시나무이나 보통 아카시아라고 부른다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flores brancas de cheiro doce.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "散发出香甜气味的白色花朵。学名刺槐，原产于美洲，17世纪传入欧洲及非洲，现广泛种植于亚洲，属温带树种。",
+		},
+    "ContextTags": [
+    	"color_white",
+    	"fruit_tree_flower_item",
+    	"flower_item",
+    	"season_summer",
+    ]
+}

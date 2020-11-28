@@ -1,0 +1,49 @@
+{
+//original png drawed by LV16
+	"Name": "Habenaria Radiata",
+	"Description": "Korean native orchid resembling a white bird. It blooms rarely in summer.",
+	"Category": "Flower",
+	"Edibility": 18,
+	"Price": 75,
+	"IsColored": false,
+	"Recipe": null,
+    "GiftTastes":
+	{
+		"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	},
+
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "해오라비난초",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Flor de Orquídea Habenaria Radiata",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{ 
+		//"es": "",
+		"ko": "흰 새를 닮은 한국 토종 난초. 여름에 드물게 핀다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Orquídea nativa coreana semelhante a um pássaro branco. Floresce raramente no verão.",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+    "ContextTags":
+	[
+    	"season_summer",
+    	"flower_item",
+    	"color_white"
+    ]
+}

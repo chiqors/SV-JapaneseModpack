@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.ramen",
+"name": "Ramen Stand",
+"file": "assets/ramen.tmx",
+"iconFile": "assets/ramenicon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

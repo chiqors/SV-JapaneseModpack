@@ -1,0 +1,11 @@
+{
+  "Name": "[TMX] Dango Stand",
+  "Author": "Lanterncat",
+  "Version": "1.0.0",
+  "Description": "A food stand for dango.",
+  "UniqueID": "lanterncat.dango",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.8.0"
+  }
+}

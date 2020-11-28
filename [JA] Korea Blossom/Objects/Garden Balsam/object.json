@@ -1,0 +1,44 @@
+{
+  "Name": "Garden Balsam",
+  "Description": "You can crush petals and color your fingernails red.",
+  "Category": "Flower",
+  "Edibility": 2,
+  "Price": 25,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "봉선화",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Bálsamo de Jardim",
+        // "ru": "",
+        // "tr": "",
+        "zh": "凤仙花",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "봉숭아로도 불린다. 짓이겨 손톱에 꽃물을 들일 수 있다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Você pode extrair corantes das pétalas e pintar suas unhas de vermelho",
+        // "ru": "",
+        // "tr": "",
+        "zh": "这种花又名指甲花，因花瓣捣碎之后可以用来为指甲染色而得名。",
+		},
+    "ContextTags": [
+    	"color_red",
+    	"flower_item",
+    	"season_summer"
+    ]
+}

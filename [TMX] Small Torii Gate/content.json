@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.smalltorii",
+"name": "Small Torii Gate",
+"file": "assets/smalltorii.tmx",
+"iconFile": "assets/ToriiIcon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

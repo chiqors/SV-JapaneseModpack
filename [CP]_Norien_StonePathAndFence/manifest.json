@@ -1,0 +1,12 @@
+{
+   "Name": "Norien's stone paths and fence",
+   "Author": "CNorien",
+   "Version": "1.2",
+   "Description": "Retexture and Recolor of Stone Path and Stone Fence",
+   "UniqueID": "Norien.StonePathFence",
+   "MinimumApiVersion": "3.0.1",
+   "UpdateKeys": [ "Nexus:3881" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

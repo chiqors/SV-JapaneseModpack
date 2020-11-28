@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.yakitori",
+"name": "Yakitori Stand",
+"file": "assets/yakitori.tmx",
+"iconFile": "assets/yakitoriicon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

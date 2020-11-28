@@ -1,0 +1,46 @@
+{
+//original png drawed by Yeorom
+  "Name": "White Rose of Sharon",
+  "Description": "Korean national flower with strong vitality.",
+  "Category": "Flower",
+  "Edibility": 10,
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+  "NameLocalization": { 
+		// "es": "",
+        "ko": "백단심 무궁화",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor Rosas de Sharon Branca",
+        // "ru": "",
+        // "tr": "",
+        "zh": "白木槿",
+     },
+ "DescriptionLocalization": { 
+		// "es": "",
+        "ko": "강인한 생명력을 가진, 한국의 상징적인 꽃.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        "pt": "Flor nacional coreana com forte vitalidade.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "韩国的国花，具有极强的生命力。",
+		},
+    "ContextTags": [
+    	"color_white",
+    	"flower_item",
+    	"season_summer",
+		"season_fall",
+    ]
+}

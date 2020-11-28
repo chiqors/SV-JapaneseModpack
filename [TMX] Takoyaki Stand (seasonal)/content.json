@@ -1,0 +1,15 @@
+{
+
+"buildables": [
+{
+"id":"lanterncat.takoyaki",
+"name": "Takoyaki Stand",
+"file": "assets/takoyaki.tmx",
+"iconFile": "assets/takoyakiicon.png",
+"removeEmpty":false,
+"price":1000,
+"set": "Others",
+}
+]
+
+}

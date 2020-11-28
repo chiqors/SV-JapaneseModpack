@@ -1,0 +1,12 @@
+{
+  "Name": "Better Corn",
+  "Author": "ForgedBrass",
+  "Version": "1.0.0",
+  "Description": "Changes the apperance of mature corn for easier harvesting.",
+  "UniqueID": "ForgedBrass.BetterCorn",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:7179"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

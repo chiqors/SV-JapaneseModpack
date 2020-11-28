@@ -1,0 +1,11 @@
+{
+  "Name": "[TMX] Small Torii Gate",
+  "Author": "Lanterncat",
+  "Version": "1.0.0",
+  "Description": "A small torii gate.",
+  "UniqueID": "lanterncat.smalltorii",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+    "MinimumVersion": "1.8.0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+//original png drawed by 엣지
+	"Name": "Black Locust Tree",
+	"Product": "Black Locust",
+	"SaplingName": "Black locust Sapling",
+	"SaplingDescription": "Takes 28 days to produce a mature black locust tree. Bears flowers in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+	"Season": "summer",
+	"SaplingPurchaseFrom": "Pierre",
+	"SaplingPurchasePrice": 2500,
+	"SaplingPurchaseRequirements": null,
+	"SaplingNameLocalization":
+	{
+		//"es": "",
+		"ko": "아카시아 묘목",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Mudas de Acácia",
+		//"ru": "",
+		//"tr": "",
+		"zh": "洋槐树苗",
+	},
+	"SaplingDescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "28일후에 성목이 됩니다. 여름에 꽃이 핍니다. 주변 8칸이 비어있어야 자랍니다.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		"pt": "Leva 28 dias para produzir uma árvore de acácia madura. Tem flores no verão. Só cresce se as 8 peças ao redor estiverem vazias.",
+		//"ru": "",
+		//"tr": "",
+		"zh": "需要28天时间成熟，之后每逢夏季收获洋槐花。周围必须留置8个空格才可供其生长。",
+	}
+}
